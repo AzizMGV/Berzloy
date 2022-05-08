@@ -3,3 +3,4 @@
 
 ![Logo](https://github.com/AzizMGV/Berzloy/blob/main/Images/machine-learning.png)
 
+## <a href = "https://vas3k.ru/blog/machine_learning/"> Vas3k (Разбираемся в ML простыми словами) </a>
